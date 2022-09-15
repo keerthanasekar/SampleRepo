@@ -7,3 +7,5 @@ New line
 Secondary commit
 
 Third line
+
+Pull sample // line added for test purpose
