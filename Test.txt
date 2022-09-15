@@ -3,3 +3,7 @@ Test doc
 Sample master commit
 
 New line
+
+Secondary commit
+
+Third line
