@@ -1,3 +1,5 @@
 Test doc
 
 Sample master commit
+
+New line
