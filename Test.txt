@@ -9,3 +9,5 @@ Secondary commit
 Third line
 
 Pull sample // line added for test purpose
+
+Line added //to test git revert
